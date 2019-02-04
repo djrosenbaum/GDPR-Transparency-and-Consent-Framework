@@ -686,4 +686,3 @@ The service-specific cookie consents will override the global consent cookie, if
 10. 2018-04-12: parameter wording change of "cookieVersion" -> "consentStringVersion" (no functional change)
 
 11. 2018-04-13: renamed "_cmp_" frame to "__cmpLocator"
-
